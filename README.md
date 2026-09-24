@@ -1,13 +1,28 @@
-# 👋 Hi, I'm Samarth
+<h1 align="center">👋 Hi, I'm Samarth</h1>
 
-### 🐍 Python Backend Developer | 🤖 RAG | ⚙️ AI Applications
+<h3 align="center">
+🐍 Python Backend Developer | 🤖 RAG | ⚙️ AI Applications
+</h3>
 
-> Building practical backend systems and intelligent AI applications.
-> Exploring RAG, LLMs, Agentic AI, and automation through real-world projects.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=Python+Backend+Developer;Building+RAG+Applications;Exploring+Agentic+AI;Working+with+LLMs;Building+AI+Automation;Turning+Ideas+Into+Real+Projects" />
+</p>
+
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+    width="400"
+    alt="Coding"
+  />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,mysql&theme=dark" />
+</p>
 
 ---
 
-## 🚀 What I Do
+<h2 align="left">🚀 What I Do</h2>
 
 - 🐍 Build backend applications with Python
 - ⚙️ Develop APIs and backend systems
@@ -17,81 +32,98 @@
 - 📧 Develop intelligent automation systems
 
 ---
-## 🛠️ Tech Stack
 
-### 🐍 Backend
+<h2 align="left">🛠️ Tech Stack</h2>
+
+<h3>🐍 Backend</h3>
 
 `PYTHON` · `FASTAPI` · `REST API`
 
-### 🤖 Generative AI & RAG
+<h3>🤖 Generative AI & RAG</h3>
 
 `LANGCHAIN` · `RAG` · `LLMs` · `OLLAMA` · `PROMPT ENGINEERING`
 
-### 🧠 Agentic AI
+<h3>🧠 Agentic AI</h3>
 
 `CREWAI` · `AI AGENTS` · `MULTI-AGENT SYSTEMS` · `TOOL CALLING`
 
-### 🔎 Search & Knowledge
+<h3>🔎 Search & Knowledge</h3>
 
 `EMBEDDINGS` · `VECTOR DATABASES` · `CHROMA` · `VECTOR SEARCH` · `SEMANTIC SEARCH` · `COSINE SIMILARITY`
 
-### 🗄️ Database & Developer Tools
+<h3>🗄️ Database & Developer Tools</h3>
 
 `SQL` · `GIT` · `GITHUB` · `DOCKER`
 
 ---
-## 🚀 Featured Projects
 
-### 📧 Executive Email Agent
+<h2 align="left">🚀 Featured Projects</h2>
+
+<h3>📧 Executive Email Agent</h3>
+
 An intelligent executive email and calendar agent built with a LangGraph ReAct loop and tool calling.
 
-**Highlights:**
+<b>Highlights:</b>
+
 - 📩 Email reading, summarization, replies, and drafts
 - 📅 Calendar checking and meeting booking
 - 🎂 Birthday memory and automated birthday workflows
 - 🧠 Supports multiple LLM providers including Ollama
 - 🔄 ReAct-based agent workflow
 
-[🔗 View Project](https://github.com/Samarth-Satoddi/DAILY-EMAIL-READING-AGENT)
+<a href="https://github.com/Samarth-Satoddi/DAILY-EMAIL-READING-AGENT">
+🔗 View Project
+</a>
 
 ---
 
-### 📱 AI Order System using WhatsApp
+<h3>📱 AI Order System using WhatsApp</h3>
+
 An AI-powered ordering system designed to handle customer orders through WhatsApp.
 
-[🔗 View Project](https://github.com/Samarth-Satoddi/AI-ORDER-SYSTEM-USING-WATSAP)
+<a href="https://github.com/Samarth-Satoddi/AI-ORDER-SYSTEM-USING-WATSAP">
+🔗 View Project
+</a>
 
 ---
 
-### 📓 NotebookLLM
+<h3>📓 NotebookLLM</h3>
+
 An AI-powered project focused on interacting with and working with notebook-based information using LLMs.
 
-[🔗 View Project](https://github.com/Samarth-Satoddi/NOTEBOOKLLM)
+<a href="https://github.com/Samarth-Satoddi/NOTEBOOKLLM">
+🔗 View Project
+</a>
 
 ---
 
-### 🌿 Medical RAG
+<h3>🌿 Medical RAG</h3>
+
 A Retrieval-Augmented Generation project focused on building an AI system for medical knowledge retrieval and question answering.
 
-[🔗 View Project](https://github.com/Samarth-Satoddi/MRDICAL-RAG-INITIALSTART)
+<a href="https://github.com/Samarth-Satoddi/MRDICAL-RAG-INITIALSTART">
+🔗 View Project
+</a>
 
 ---
 
-### 🎵 Music Agentic AI
+<h3>🎵 Music Agentic AI</h3>
+
 An Agentic AI project focused on intelligent music-related interactions and automation.
 
-**🚧 Coming Soon**
+<b>🚧 Coming Soon</b>
 
 ---
 
-### 🍽️ Restaurant Application
+<h3>🍽️ Restaurant Application</h3>
+
 A full-stack restaurant application currently under development.
 
-**🚧 Coming Soon**
+<b>🚧 Coming Soon</b>
 
 ---
 
-## 🎯 Current Focus
+<h2 align="left">🎯 Current Focus</h2>
 
 - 🐍 Python Backend Development
 - ⚡ FastAPI & REST APIs
@@ -105,25 +137,30 @@ A full-stack restaurant application currently under development.
 
 ---
 
-## 🔥 Contribution Streak
+<h2 align="left">🔥 Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Samarth-Satoddi&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Samarth-Satoddi&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
 
-## 📫 Connect With Me
+<h2 align="left">📫 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://github.com/Samarth-Satoddi">
-    <img src="https://img.shields.io/badge/GitHub-Samarth--Satoddi-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+
+<a href="https://github.com/Samarth-Satoddi">
+<img src="https://img.shields.io/badge/GitHub-Samarth--Satoddi-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 </p>
 
 ---
 
-### 💡 Open to
+<h3 align="left">💡 Open to</h3>
 
 - 🤝 Collaboration on AI & Backend projects
 - 🚀 Building practical AI applications
@@ -132,9 +169,7 @@ A full-stack restaurant application currently under development.
 
 ---
 
-
-
-## 🌟 Thanks for Visiting
+<h2 align="center">🌟 Thanks for Visiting</h2>
 
 <p align="center">
   <i>Building with Python. Exploring AI. Turning ideas into real-world applications.</i>
